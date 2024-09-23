@@ -50,3 +50,4 @@ Customer Satisfaction: By offering real-time order tracking, personalized custom
 Data-Driven Decisions: Through real-time reports and insights, the system enables data-driven decisions, allowing Universal Mart to optimize pricing, stock levels, and marketing efforts.
 
 The Universal Mart E-commerce Management System empowers businesses to optimize operations, enhance customer experience, and drive sales, ensuring smooth, scalable, and efficient management of modern e-commerce activities.
+
