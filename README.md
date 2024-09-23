@@ -45,8 +45,8 @@ Promotional Pricing: Apply various discount models (e.g., percentage-based, Buy-
 Dynamic Discounts: Automatically adjust prices based on real-time stock levels, promotional events, or customer segments.
 Benefits of the Universal Mart E-commerce Management System:
 Operational Efficiency: Automating processes such as order processing, inventory management, and customer service improves overall efficiency and reduces manual workloads.
-
 Scalability: The system can scale with Universal Mart as the business grows, supporting increased numbers of products, customers, and orders.
 Customer Satisfaction: By offering real-time order tracking, personalized customer service, and prompt delivery, the system enhances customer satisfaction.
 Data-Driven Decisions: Through real-time reports and insights, the system enables data-driven decisions, allowing Universal Mart to optimize pricing, stock levels, and marketing efforts.
+
 The Universal Mart E-commerce Management System empowers businesses to optimize operations, enhance customer experience, and drive sales, ensuring smooth, scalable, and efficient management of modern e-commerce activities.
